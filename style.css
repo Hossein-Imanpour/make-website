@@ -1,7 +1,9 @@
-heade{
-    display: flex;
-    /* align-items: center; */
-}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
+
+
+
 /* .navbar{
     display: flex;
     justify-content: ;
@@ -21,4 +23,48 @@ heade{
      font-size: 20px;
      width: 100px;
      height: 50px;
+}
+
+
+/* main   */
+
+
+.txt-parent{
+    border: 2px solid black;
+    width: 80%;
+    margin: auto;
+    margin-top: 5rem;
+    padding: 3rem;
+    border-radius: 2rem;
+}
+.txt{
+    font-family: 'Quicksand', sans-serif ;
+}
+
+.boxs{
+    display: flex;
+    
+    margin-top: 2rem;    margin-bottom: 3rem;
+
+}
+.box{
+    width: 250px;
+    height: 380px;
+    background-color: #ccc;
+    margin: auto;
+    border-radius: 1.5rem;
+}
+.text-box{
+  text-align: center;
+  margin-top: 12rem;
+  font-size: 2rem;
+
+
+
+}
+.a-txt{
+    background-color: red;
+    border-radius: 1rem;
+    padding: .5rem;
+    margin-left: 6rem;
 }
