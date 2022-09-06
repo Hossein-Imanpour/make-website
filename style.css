@@ -81,3 +81,27 @@ table{
 td{
     border: 1px solid black;
 }
+
+
+/*               goals            */
+
+#gtxt{
+    border-radius: 1rem;
+    padding: .5rem;
+    margin-left: 6rem;
+    background-color: #ccc;
+}
+
+
+.main{
+    margin:  0 auto;
+    width: 80%;
+    border: 2px solid black;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.container-txt  span{
+    /* font-size: 20px; */
+    font-weight: 800;
+    font-family: 'Quicksand', sans-serif ;;
+}
