@@ -43,6 +43,7 @@
 
 .boxs{
     display: flex;
+    flex-wrap: wrap;
     
     margin-top: 2rem;    margin-bottom: 3rem;
 
@@ -53,6 +54,7 @@
     background-color: #ccc;
     margin: auto;
     border-radius: 1.5rem;
+    margin-top: 2rem;
 }
 .text-box{
   text-align: center;
@@ -105,3 +107,5 @@ td{
     font-weight: 800;
     font-family: 'Quicksand', sans-serif ;;
 }
+
+
