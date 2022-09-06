@@ -68,3 +68,16 @@
     padding: .5rem;
     margin-left: 6rem;
 }
+
+/*              tables           */
+
+
+table{
+    border: 1px solid black;
+    margin: auto;
+    margin-bottom: 5rem;
+    width: 50%;
+}
+td{
+    border: 1px solid black;
+}
