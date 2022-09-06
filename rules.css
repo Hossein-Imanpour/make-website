@@ -16,7 +16,11 @@
     margin: auto;
     text-align: center;
     /* align-content: center; */
-    margin-top:5rem; 
+    margin-top:10rem; 
+}
+.img{
+    position: absolute;
+    right: 3.4rem;
 }
 #a-txt{
     /* align-content: center; */

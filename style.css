@@ -41,6 +41,14 @@
     font-family: 'Quicksand', sans-serif ;
 }
 
+.img{
+    width: 100px;
+    background: none;
+    margin-left: 4.5rem;
+    position: absolute;
+    margin-top: 3rem;
+    
+}
 .boxs{
     display: flex;
     flex-wrap: wrap;
@@ -55,6 +63,7 @@
     margin: auto;
     border-radius: 1.5rem;
     margin-top: 2rem;
+    position: relative;
 }
 .text-box{
   text-align: center;
